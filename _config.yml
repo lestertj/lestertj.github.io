@@ -18,7 +18,7 @@ page_top_title: "Lester Tan"
 email: 'lestertan09@gmail.com'
 description: "I'm a developer from the sunny island of Singapore</br>Read more <a href=\"/about\">about me</a>"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://lestertj.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://lestertj.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: 'lestertj'
 linkedin_username:  'lestertj'
 resume_url: ''

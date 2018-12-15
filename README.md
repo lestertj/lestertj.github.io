@@ -2,8 +2,8 @@
 
 View it at
 
-* lestertj.github.io
-* lestertj.com
+* [lestertj.github.io](https://lestertj.github.io)
+* [lestertj.com](https://lestertj.com)
 
 ## Credit
 

@@ -16,7 +16,7 @@
 title: "Lester Tan"
 page_top_title: "Lester Tan"
 email: 'lestertan09@gmail.com'
-description: "I'm a developer from the sunny island of Singapore</br>Read more <a href=\"/about\">about me</a>"
+description: "I'm a developer from the sunny island of Singapore.</br>Read more <a href=\"/about\">about me</a>"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.lestertj.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: 'lestertj'
@@ -28,6 +28,7 @@ markdown: kramdown
 # theme: phantom # Uncomment once published to RubyGems
 plugins:
   - jekyll-paginate
+  - jekyll-sitemap
 
 ### Phantom settings
 paginate: 10

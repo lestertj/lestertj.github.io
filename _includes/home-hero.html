@@ -12,12 +12,12 @@
           <h1 class="text-center">{{site.page_top_title}}</h1>
           {% endif %}
 
-          {% if site.description != '' or site.enable_contact == true %}
+          {% if site.description != ''%}
           <p class="text-center">
             {% if site.description != '' %}
             {{site.description}}
             {% endif %}
-
+            </br>Read more <a href="/about">about me</a>
           </p>
           {% endif %}
 

@@ -18,6 +18,11 @@ permalink: /:year/:month/:day/:title/
 gems:
   - jekyll-feed
 
+plugins_dir:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
 exclude:
   - Gemfile
   - Gemfile.lock

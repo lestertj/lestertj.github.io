@@ -1,48 +1,32 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: "Lester Tan"
-page_top_title: "Lester Tan"
-email: 'lestertan09@gmail.com'
-description: "I'm a developer from the sunny island of Singapore."
+title: Lester Tan
+owner: Lester Tan
+email:
+description: Software Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.lestertj.com" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: 'lestertj'
-linkedin_username:  'lestertj'
-resume_url: ''
-
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+language: en
+twitter_username:
+github_username:
+disqus_username: 
 # Build settings
 markdown: kramdown
-# theme: phantom # Uncomment once published to RubyGems
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-seo-tag
+theme: minima
+excerpt_separator: <!--more-->
 
-### Phantom settings
-paginate: 10
-footer_text: 'Adapted from the <a href="https://github.com/jamigibbs/phantom">Phantom</a> theme'
-admin_name: 'Lester Tan'
-# google_analytics: "UA-9999999-99" # Update with your own tracking ID
-enable_contact: true
+permalink: /:year/:month/:day/:title/
 
-#### Phantom Navigation menu
-enable_nav: true
-nav_item:
-  - { url: '/', text: 'Home' }
-  - { url: '/about', text: 'About' }
+gems:
+  - jekyll-feed
 
-sass:
-  style: compressed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle
+  - README.md
+  - LICENSE.txt
+  - contact.md
+  - blog.md
+  - projects.md
+  - categories.md
+  - _posts/*
+  - categories/*

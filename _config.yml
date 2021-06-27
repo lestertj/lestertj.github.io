@@ -3,7 +3,7 @@ owner: Lester Tan
 email:
 description: Software Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://lester.sh" # the base hostname & protocol for your site, e.g. http://example.com
 language: en
 twitter_username:
 github_username:
@@ -15,10 +15,7 @@ excerpt_separator: <!--more-->
 
 permalink: /:year/:month/:day/:title/
 
-gems:
-  - jekyll-feed
-
-plugins_dir:
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag

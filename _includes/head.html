@@ -8,6 +8,9 @@
     <meta content="{{site.owner}}" name="author"></meta>
     <meta content="Copyright 2021 {{site.owner}}. All rights reserved." name="copyright"></meta>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% if jekyll.environment == 'production' %}
+        {% include analytics.html %}
+    {% endif %}
     {% feed_meta %}
     {% seo %}
 </head>

@@ -1,29 +1,29 @@
 ---
 layout: default
 title:
-permalink: /
+permalink: /resume/
 ---
 {::options parse_block_html="true" /}
-<div class="about-page">
+<div class="resume-page">
 ## Experience
-### Jane Street
+### Jane Street, Hong Kong
 Software Engineer (Sep 2019 - Present)
 
-### National University of Singapore
+### National University of Singapore, Singapore
 Research Assistant (Jun 2019 - Jul 2019)
 
-### Facebook
+### Facebook, Menlo Park, USA
 Software Engineer Intern (May 2018 - Aug 2018)
 
-### Merrill Lynch
+### Merrill Lynch, Singapore
 Technology Analyst Intern (Aug 2017 - Dec 2017)
 
-### Visa
+### Visa, Singapore
 Systems Engineer Intern (May 2017 - Jul 2017)
 
 ## Education
 ### National University of Singapore
-B.Comp. Computer Science (Aug 2015 - May 2019) \\
+B.Comp. Computer Science (Aug 2015 - Jun 2019) \\
 First Class Honours
 
 Dean's List (Academic Year 2016/2017 Semester 1) \\

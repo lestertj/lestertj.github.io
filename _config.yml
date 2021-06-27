@@ -1,17 +1,24 @@
 title: Lester Tan
 owner: Lester Tan
-email:
-description: Software Engineer
+description: Lester Tan - Software Engineer - online resume
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lester.sh" # the base hostname & protocol for your site, e.g. http://example.com
 language: en
-twitter_username:
-github_username:
-disqus_username: 
+
 # Build settings
 markdown: kramdown
 theme: minima
 excerpt_separator: <!--more-->
+
+author:
+  name: Lester Tan
+  type: Person
+
+social:
+  name: Lester Tan
+  links:
+    - https://github.com/lestertj
+    - https://www.linkedin.com/in/lestertj
 
 permalink: /:year/:month/:day/:title/
 

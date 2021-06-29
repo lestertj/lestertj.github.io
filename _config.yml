@@ -1,6 +1,6 @@
 title: Lester Tan - Software Engineer
+description: I am a software engineer currently based in Hong Kong. Read about my story, and view my professional profile.
 owner: Lester Tan
-description: Lester Tan - Software Engineer - Personal Site
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lester.sh" # the base hostname & protocol for your site, e.g. http://example.com
 language: en

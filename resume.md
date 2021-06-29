@@ -1,6 +1,6 @@
 ---
 layout: default
-title:
+title: Resume
 permalink: /resume/
 ---
 {::options parse_block_html="true" /}

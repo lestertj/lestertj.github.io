@@ -1,6 +1,6 @@
 ---
 layout: default
-title:
+title: About
 permalink: /
 ---
 {::options parse_block_html="true" /}

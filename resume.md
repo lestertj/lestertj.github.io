@@ -6,8 +6,9 @@ permalink: /resume/
 {::options parse_block_html="true" /}
 <div class="resume-page">
 ## Experience
-### [Jane Street](https://www.janestreet.com/), Hong Kong
-Software Engineer (Sep 2019 - Present)
+### [Jane Street](https://www.janestreet.com/), Singapore
+Software Engineer, Singapore (Mar 2022 - Present)
+Software Engineer, Hong Kong (Sep 2019 - Feb 2022)
 
 ### [National University of Singapore](https://www.nus.edu.sg/), Singapore
 Research Assistant (Jun 2019 - Jul 2019)

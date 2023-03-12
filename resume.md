@@ -8,6 +8,7 @@ permalink: /resume/
 ## Experience
 ### [Jane Street](https://www.janestreet.com/), Singapore
 Software Engineer, Singapore (Mar 2022 - Present)
+
 Software Engineer, Hong Kong (Sep 2019 - Feb 2022)
 
 ### [National University of Singapore](https://www.nus.edu.sg/), Singapore
